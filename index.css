@@ -49,6 +49,7 @@
   align-items: center;
   flex-shrink: 0;
   justify-content: center;
+  height: 400px;
 }
 .home-text002 {
   color: rgba(255, 255, 255, 1);
@@ -297,6 +298,7 @@
   align-items: center;
   flex-shrink: 0;
   justify-content: center;
+  height: 400px;
 }
 .home-text028 {
   color: rgba(255, 255, 255, 1);
@@ -468,6 +470,7 @@
   align-items: center;
   flex-shrink: 0;
   justify-content: center;
+  height: 400px;
 }
 .home-text103 {
   color: rgba(255, 255, 255, 1);
